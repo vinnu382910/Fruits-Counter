@@ -1,4 +1,6 @@
-In this project, let's fix the **Fruits Counter** by applying the concepts we have learned till now.
+In this project, let's build the **Fruits Counter** app.
+
+Click Here:- https://fruitcountvinn.ccbp.tech/
 
 ### Refer to the image below:
 
